@@ -1,7 +1,7 @@
 # Hi there, I'm Yasiru Madawala 👋
 
 ## About Me
-- Currently persuing a degree at National Institute of Business Management (NIBM) Sri Lanka.
+- Currently pursuing a degree at National Institute of Business Management (NIBM) Sri Lanka.
 - Hold a Diploma in Computer Systems Design.
 - Following a Higher National Diploma in Software Engineering at NIBM.
 - Following a Degree Program BSc Hons in Computing awarded by Coventry University UK.
