@@ -10,7 +10,7 @@
 
 - **Languages**: Java, Kotlin, C#, Python, HTML
 - **Tools and Frameworks**: Visual studio, Netbeans, Intellij, Android Studio, Git, GitHub, Firebase, Node.js, React, Arduino, IoT
-- **Databases**: MySQL, SqlLite, Oracble, Firebase
+- **Databases**: MySQL, SqlLite, Oracle, Firebase
 - **Systems Design**: UML, ER, UI/UX.
 - **Web Designing**: HTML, CSS, Bootstrap, JavaScript, PHP.
 - **Other**: Git, RESTful APIs, Spring Boot, Unit Testing
