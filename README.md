@@ -9,7 +9,7 @@
 ## Skills and Technologies
 
 - **Languages**: Java, Kotlin, C#, Python, HTML
-- **Tools and Frameworks**: Visual studio, Netbeans, Intellij, Android Studio, Git, GitHub, Firebase, Node.js, React, Arduino, IoT
+- **Tools and Frameworks**: Visual studio, Netbeans, Intellij, Android Studio, Git, GitHub, Firebase, Node.js, React, NEXT JS, Arduino, IoT
 - **Databases**: MySQL, SqlLite, Oracle, Firebase
 - **Systems Design**: UML, ER, UI/UX.
 - **Web Designing**: HTML, CSS, Bootstrap, JavaScript, PHP.
