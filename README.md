@@ -1,10 +1,10 @@
 # Hi there, I'm Yasiru Madawala 👋
 
 ## About Me
-- Currently pursuing a degree at National Institute of Business Management (NIBM) Sri Lanka.
+- Intern web developer at Kaizens Group.
+- Pursuing a degree at National Institute of Business Management (NIBM) Sri Lanka.
 - Hold a Diploma in Computer Systems Design.
-- Following a Higher National Diploma in Software Engineering at NIBM.
-- Following a Degree Program BSc Hons in Computing awarded by Coventry University UK.
+- Followed a Higher National Diploma in Software Engineering at NIBM.
 
 ## Skills and Technologies
 
@@ -13,7 +13,7 @@
 - **Databases**: MySQL, SqlLite, Oracle, Firebase
 - **Systems Design**: UML, ER, UI/UX.
 - **Web Designing**: HTML, CSS, Bootstrap, JavaScript, PHP.
-- **Other**: Git, RESTful APIs, Spring Boot, Unit Testing
+- **Other**: Git, RESTful APIs, Spring Boot, Unit Testing.
 
 ## Fun Facts
 
