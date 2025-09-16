@@ -12,7 +12,7 @@
 - **Tools and Frameworks**: Visual studio, Netbeans, Intellij, Android Studio, Git, GitHub, Firebase, Node.js, React, NEXT JS, Arduino, IoT
 - **Databases**: MySQL, SqlLite, Oracle, Firebase
 - **Systems Design**: UML, ER, UI/UX.
-- **Web Designing**: HTML, CSS, Bootstrap, JavaScript, PHP.
+- **Web Designing**: HTML, CSS, Bootstrap, JavaScript, PHP, TypeScript, React, NEXT JS.
 - **Other**: Git, RESTful APIs, Spring Boot, Unit Testing.
 
 ## Fun Facts
