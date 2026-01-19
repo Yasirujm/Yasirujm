@@ -1,7 +1,7 @@
-# Hi there, I'm Yasiru Madawala 👋
+# Hi there, I'm Yasiru Madawala
 
 ## About Me
-- Intern web developer at Kaizens Group.
+- Associate Software Engineer at Kaizens Group.
 - Pursuing a BSc Hons in Computing awarded by Coventry University (UK) at National Institute of Business Management (NIBM) Sri Lanka.
 - Hold a Diploma in Computer Systems Design.
 - Followed a Higher National Diploma in Software Engineering at NIBM.
@@ -17,8 +17,8 @@
 
 ## Fun Facts
 
-- Former National Badminton Player 🏸.
-- I enjoy working out at the gym 🏋️‍♂️.
+- Former National Badminton Player.
+- I enjoy working out at the gym.
 - NIBM University Sri Lanka Sports Council Member.
 - Sportsperson.
 
