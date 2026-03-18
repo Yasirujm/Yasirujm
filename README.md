@@ -9,10 +9,10 @@
 ## Skills and Technologies
 
 - **Languages**: Java, Kotlin, C#, .NET, Python, HTML
-- **Tools and Frameworks**: Visual studio, Netbeans, Intellij, Android Studio, IFS Cloud, Crystal Reports, Git, GitHub, Firebase, Node.js, React, NEXT JS, Docker, Arduino, IoT
+- **Tools and Frameworks**: Visual studio, Netbeans, Intellij, Android Studio, IFS Cloud, Crystal Reports, Git, GitHub, Firebase, Node.js, Phython, Docker, Arduino, IoT
+- **Web Designing**: HTML, CSS, Bootstrap, JavaScript, TypeScript, React, Next JS
 - **Databases**: MySQL, SqlLite, Oracle, Firebase
 - **Systems Design**: UML, ER, UI/UX
-- **Web Designing**: HTML, CSS, Bootstrap, JavaScript, PHP, TypeScript, React, NEXT JS
 - **Other**: RESTful APIs, Spring Boot, Windows and Linux Servers
 
 ## Fun Facts
