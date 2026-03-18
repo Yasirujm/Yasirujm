@@ -8,12 +8,12 @@
 
 ## Skills and Technologies
 
-- **Languages**: Java, Kotlin, C#, Python, HTML
-- **Tools and Frameworks**: Visual studio, Netbeans, Intellij, Android Studio, Git, GitHub, Firebase, Node.js, React, NEXT JS, Arduino, IoT
+- **Languages**: Java, Kotlin, C#, .NET, Python, HTML
+- **Tools and Frameworks**: Visual studio, Netbeans, Intellij, Android Studio, IFS Cloud, Crystal Reports, Git, GitHub, Firebase, Node.js, React, NEXT JS, Docker, Arduino, IoT
 - **Databases**: MySQL, SqlLite, Oracle, Firebase
-- **Systems Design**: UML, ER, UI/UX.
-- **Web Designing**: HTML, CSS, Bootstrap, JavaScript, PHP, TypeScript, React, NEXT JS.
-- **Other**: Git, RESTful APIs, Spring Boot, Unit Testing.
+- **Systems Design**: UML, ER, UI/UX
+- **Web Designing**: HTML, CSS, Bootstrap, JavaScript, PHP, TypeScript, React, NEXT JS
+- **Other**: RESTful APIs, Spring Boot, Windows and Linux Servers
 
 ## Fun Facts
 
@@ -21,6 +21,7 @@
 - I enjoy working out at the gym.
 - NIBM University Sri Lanka Sports Council Member.
 - Sportsperson.
+- Lead Guitarist
 
 ## Let's Connect
 
