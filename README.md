@@ -3,7 +3,7 @@
 ## About Me
 - Associate Software Engineer at Kaizens Group.
 - Pursuing a BSc Hons in Computing awarded by Coventry University (UK) at National Institute of Business Management (NIBM) Sri Lanka.
-- Hold a Diploma in Computer Systems Design.
+- Completed a Diploma in Computer Systems Design.
 - Followed a Higher National Diploma in Software Engineering at NIBM.
 
 ## Skills and Technologies
